@@ -1,0 +1,74 @@
+
+h0{ background-color: #ff0000;
+    text-align:center;
+    border-radius: 10px;
+    border:2px solid black;
+  }
+div.canvas{ 
+   border:1px solid black;margin: 2%; 
+   border-radius: 10px; 
+   width:default; 
+   overflow: scroll; 
+   background-color: #ccccff;
+   padding: 5%;
+  }
+div.input{
+   padding: 1%;
+   background-color: #9ACD32; 
+   border-radius: 10px;
+   border:2px solid black;
+   }
+label{
+   display: inline-block;
+   font-family: arial;
+   color: #-000001;
+   width: 48%;
+   }
+input{ 
+   width: 47%;
+   border-radius: 10px;
+   border:2px solid black;
+   padding: 1px;
+   }
+button{
+   background-color: #05f405;
+   textcolor: #09093e;
+   width: 40%;
+   font-family: arial;
+   margin-top: 5%;
+   margin-left:25%;
+   border-radius: 10px;
+   border:2px solid black;
+   float: center;
+   }
+#header{
+   padding: 4px; 
+   border: 5px double #000000;
+   border-radius: 10px;
+   }
+#myCanvas{
+   overflow: scroll;
+   text-align: center;
+   text-overflow: scroll;
+   }
+p{
+   background-color: white; 
+   border-radius: 9px;
+   border:2px solid black; 
+   font-family: arial;
+   padding: 2%;
+   text-align: center;
+   text-indent: 3px;
+   }
+div .footer{
+   background-color: black;
+   color: #ff-0001;
+   font-family: arial;
+   text-align: center;
+   padding:2%;
+   height: 10%;
+   border-radius: 10px;
+   }
+
+
+
