@@ -1,2 +1,2 @@
-# SoM
-Problems related to Strength of Materials
+# SOM
+strength of material is awesome project.
